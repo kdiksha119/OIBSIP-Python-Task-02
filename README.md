@@ -7,5 +7,5 @@ This project is all about creating BMI calculator using python which will show w
 # Details
 + **Project Title:** Creating a BMI calculator using Python
 + **Project Description:** Create a BMI calculator using the measures of height and weight according to which the person weight is normal or not will be shown in result.
-+ **Project Submission:** All the work for the evaluation can be found on the 
++ **Project Submission:** All the work for the evaluation can be found on the `BMI.py` in the current directory.
 
